@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Project
+
+*.cbp
+*.layout
+
+main.cpp
+libs/
